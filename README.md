@@ -65,10 +65,7 @@ ClearDesk is portable, so users can run it directly from the EXE file without an
 
 ## 📥 Download
 
-Download the latest version from the **GitHub Releases** page.
-
-
-[ClearDesk.exe]()
+Download the latest version from the **[GitHub Releases](https://github.com/EnukaSathmina/ClearDesk/releases)** page.
 
 ClearDesk is portable.
 No setup wizard, MSI, or installation required.
