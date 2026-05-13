@@ -152,7 +152,12 @@ If you like this project, consider giving it a star on GitHub.
 ---
 <div align="center">
 
-# 📜 License
+## 📜 License
 
-All Rights Reserved
+ClearDesk is proprietary software released under an **All Rights Reserved** license.
+
+The official EXE may be downloaded and used for personal use only.  
+Redistribution, modification, reverse engineering, commercial resale, or bypassing the trial/activation system is not allowed.
+
+See the [LICENSE](LICENSE) file for details.
 </div>
