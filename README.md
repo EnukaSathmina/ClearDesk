@@ -22,7 +22,7 @@ A modern portable Windows cleaner and optimization utility built with **Python**
 
 ---
 
-## 📌 About
+# 📌 About
 
 **ClearDesk** is a premium-style Windows desktop utility designed to help users clean, review, and optimize their PC from one modern dashboard.
 
